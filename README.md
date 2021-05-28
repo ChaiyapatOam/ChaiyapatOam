@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ChaiyapatOam
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
+- 🏫 I'm a student at Surawittayakarn School
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
