@@ -2,8 +2,6 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 🏫 I'm a student at Surawittayakarn School
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ChaiyapatOam/ChaiyapatOam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
