@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChaiyapatOam
-- 👀 I’m interested in python
+- 👀 I’m interested in AI and Machine learning.
 - 🌱 I’m currently learning python
 - 🏫 I'm a student at Surawittayakarn School
 
