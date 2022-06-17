@@ -94,8 +94,6 @@
 </p>
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chaiyapatoam&repo=Eshop-Shop&show_icons=true)](https://github.com/ChaiyapatOam/Eshop-Shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chaiyapatoam&repo=HeroCovidCheck&show_icons=true)](https://github.com/ChaiyapatOam/HeroCovidCheck)
 
 
