@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaiyapat Oam</h1>
+<h1 align="center">Hi 👋, I'm Oam</h1>
 <h3 align="center">
     A Student from Surawittayakarn school, want to be a Computer Engineer.
 </h3>
