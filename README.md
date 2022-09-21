@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oam</h1>
 <h3 align="center">
-    A Student from Surawittayakarn school, want to be a Computer Engineer.
+    A Computer Engineering Student  at King Mongkut's University of Technology Thonburi.
 </h3>
 
 <p align="left">
