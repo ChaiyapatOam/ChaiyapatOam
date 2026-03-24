@@ -28,13 +28,13 @@
 
 <br>
 <!-- Card -->
-<p>
+<!-- <p>
     <img
     align="left"
     src="https://chaiyapatoam-readme-stats.vercel.app/api/top-langs?username=chaiyapatoam&show_icons=true&locale=en&layout=compact"
     alt="chaiyapatoam"
   />
-</p>
+</p> -->
 
 <!-- <p>
   &nbsp;<img
